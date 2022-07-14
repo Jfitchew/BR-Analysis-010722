@@ -3,11 +3,13 @@
 You can use the [editor on GitHub](https://github.com/Jfitchew/BR-Analysis-010722/edit/main/README.md) to maintain and preview the content for your website in Markdown files.  
 
 ## Plots
-- [CdA Violin Plot](https://jfitchew.github.io/BR-Analysis-010722/cda1.html)  
-- [CdA Violin Plot](/BR-Analysis-010722/cda1.html)
-- [CdA Violin Plot](/cda1.html)
+- [All Fields](AllFields.html)
+- [All Laps: Power](AllLaps-Power.html)
 - [CdA Violin Plot](cda1.html)
-- 
+- [Power](power1.html)
+- [Wind Direction](wind_dir1.html)
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
