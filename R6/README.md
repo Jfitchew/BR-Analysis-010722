@@ -3,11 +3,11 @@
 Data Analysis for Test Runs at Newport Velodrome
 
 ## Plots - Test Run 6  (Eric with 50mm disks)
-- [AllFields](R6/AllFields.html)
-- [AllLaps-Power](R6/AllLaps-Power.html)
-- [AllLaps-Speeds](R6/AllLaps-Speeds.html)
-- [PowerBySector](R6/PowerBySector.html)
-- [RollingCdA](R6/RollingCdA.html)
-- [SpeedBySector](R6/SpeedBySector.html)
-- [WindDirection](R6/WindDirection.html)
+- [AllFields](AllFields.html)
+- [AllLaps-Power](AllLaps-Power.html)
+- [AllLaps-Speeds](AllLaps-Speeds.html)
+- [PowerBySector](PowerBySector.html)
+- [RollingCdA](RollingCdA.html)
+- [SpeedBySector](SpeedBySector.html)
+- [WindDirection](WindDirection.html)
 
