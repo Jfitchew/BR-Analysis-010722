@@ -11,3 +11,20 @@ Data Analysis for Test Runs at Newport Velodrome
 - [Speed by Sector](R4/SpeedBySector.html)
 - [Wind Direction](R4/WindDirection.html)
 
+## Plots - Test Run 6
+- [AllFields](R6/AllFields.html)
+- [AllLaps-Power](R6/AllLaps-Power.html)
+- [AllLaps-Speeds](R6/AllLaps-Speeds.html)
+- [PowerBySector](R6/PowerBySector.html)
+- [RollingCdA](R6/RollingCdA.html)
+- [SpeedBySector](R6/SpeedBySector.html)
+- [WindDirection](R6/WindDirection.html)
+
+## Plots - Test Run 8
+- [AllFields](R8/AllFields.html)
+- [AllLaps-Power](R8/AllLaps-Power.html)
+- [AllLaps-Speeds](R8/AllLaps-Speeds.html)
+- [PowerBySector](R8/PowerBySector.html)
+- [RollingCdA](R8/RollingCdA.html)
+- [SpeedBySector](R8/SpeedBySector.html)
+- [WindDirection](R8/WindDirection.html)
